@@ -1,10 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="" group-title="ট্রায়াল লিংক এর মেয়াদ ১ দিন",
 
-#EXTINF:0 tvg-language="Bangla" tvg-logo="https://images.all-free-download.com/images/graphiclarge/retro_pirates_logo_vector_588227.jpg" group-title="",Pirates IPTV Live
-https://piratesiptv.shortcm.li/live.m3u8
-#EXTINF:-1 tvg-logo="https://static.india.com/wp-content/uploads/2020/08/IPL-Logo.jpg" group-title="",IPL Live
-https://piratesiptv.shortcm.li/ipl.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://download.logo.wine/logo/BKash/BKash-Icon2-Logo.wine.png" group-title="",01826655778
 http://66.45.232.131:9994/;stream.mp3
 
